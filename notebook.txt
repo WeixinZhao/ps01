@@ -1,0 +1,10 @@
+Date  Who       Start    Stop   Interruptions Question TimeOnTask    Comments
+9/10   Me        9:45    13:00   0           3         3:15          Ex.11 -  Ex. 28    Don't know how to do Ex.18. 
+9/10   Me        16:00   17:30   0           1         1:30          Finalize Ex.11 - Ex. 28 and posted a question on Piazza     
+9/10   Me        20:30   22:27   0           0         2:00          Ex. 29 - Ex. 32
+============committing to git: 9/10 22:35 ===================
+
+
+Total Time  (minutes)                        405
+TOT  (hours and tenths)  		     6.75
+
